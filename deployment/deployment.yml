@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: fastapi
+spec:
+    replicas: 5
+    selector:
+        matchLabels:
+            role: fastapi
+    template:
+        metadata:
+            labels:
+                role: fastapi
+        spec:
+            containers:
+              - name: fastapi
+                image: testmediumlabjs/github_actions_medium:ID_IMAGEN_DOCKERHUB
+                resources:
+                    limits:
+                        cpu: 500m
