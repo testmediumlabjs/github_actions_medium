@@ -1,3 +1,6 @@
+# Fligoo Lightning talk
+# 1) Docker, Api, CI/CD, Kubernetes, Deployment
+
 ![Docker](https://img.shields.io/badge/Runtime-Docker-blue?style=for-the-badge)
 ![Github-Actions](https://img.shields.io/badge/Acciones-Github_Actions-informational?style=for-the-badge)
 ![Qemu](https://img.shields.io/badge/Emulador-Qemu-informational?style=for-the-badge)
@@ -6,9 +9,6 @@
 ![FastAPI](https://img.shields.io/badge/Api-FastAPI-informational?style=for-the-badge)
 ![Deploy](https://img.shields.io/badge/Deploy-Minikube-informational?style=for-the-badge)
 ![Snyk](https://img.shields.io/badge/Seguridad-Snyc-blueviolet?style=for-the-badge)
-
-# Fligoo Lightning talk
-# 1) Docker, Api, CI/CD, Kubernetes, Deployment
 
 ### Repo: https://github.com/testmediumlabjs/github_actions_medium
 
